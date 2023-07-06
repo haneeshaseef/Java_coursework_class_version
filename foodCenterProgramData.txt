@@ -1,0 +1,5 @@
+Cashier queue: 1
+ 	 Queue -> position 1 asda  asdas has ordered 30 burgers.
+Cashier queue: 2
+ 	 Queue -> position 1 asda  asd has ordered 30 burgers.
+Cashier queue: 3
